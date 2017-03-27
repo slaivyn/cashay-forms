@@ -1,7 +1,7 @@
 {
-  "name": "graphql-forms",
-  "version": "0.0.41",
-  "description": "Auto generated Graphql Forms with React",
+  "name": "cashay-forms",
+  "version": "0.0.42",
+  "description": "Auto generated forms with React from Cashay client schema",
   "main": "dist/index.js",
   "scripts": {
     "start": "rm example/bundle.js > /dev/null 2>&1 & webpack-dev-server --config webpack.config.dev.js --content-base example/ --progress --colors",
