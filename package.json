@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hlandao/graphql-forms.git"
+    "url": "git+https://github.com/slaivyn/cashay-forms.git"
   },
   "keywords": [
     "react",
     "graphql",
     "forms",
     "autoform",
-    "meteor"
+    "cashay"
   ],
   "author": "hlandao <hlandao@gmail.com>",
   "license": "MIT",
